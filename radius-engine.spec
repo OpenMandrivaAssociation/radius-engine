@@ -9,7 +9,7 @@ Release:	%mkrel 1
 Summary:	A Lua based real-time 2D graphics game engine
 Group:		System/Libraries
 License:	MIT
-URL:		http://radius-engine.sourceforge.net/
+URL:		https://radius-engine.sourceforge.net/
 Source0:	http://downloads.sourceforge.net/project/%{name}/%{name}-%{version}.tar.gz
 Patch0:		radius-engine-0.6-configure-lua.patch
 Patch1:		radius-engine-0.7-shared.patch
