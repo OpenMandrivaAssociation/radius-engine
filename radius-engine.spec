@@ -13,6 +13,11 @@ URL:		https://radius-engine.sourceforge.net/
 Source0:	http://downloads.sourceforge.net/project/%{name}/%{name}-%{version}.tar.gz
 Patch0:		radius-engine-0.6-configure-lua.patch
 Patch1:		radius-engine-0.7-shared.patch
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	lua-devel
 BuildRequires:	SDL-devel
 BuildRequires:	mesagl-devel
