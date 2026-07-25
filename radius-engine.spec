@@ -5,7 +5,7 @@
 
 Name:		%{name}
 Version:	0.7
-Release:	%mkrel 1
+Release:	2
 Summary:	A Lua based real-time 2D graphics game engine
 Group:		System/Libraries
 License:	MIT
